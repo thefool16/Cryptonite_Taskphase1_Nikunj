@@ -1,0 +1,1 @@
+use pwd command to find out the directory user is in, then cd/.. to go back and get to / directory and then ./challenge/run invokes the path in relative way
