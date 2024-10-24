@@ -1,3 +1,4 @@
+```
 Connected!
 This challenge resets your working directory to /home/hacker unless you change
 directory properly...
@@ -26,3 +27,4 @@ pwn.college{4zcSbyL2HhdRVv2_uLUoZX1761v.dFjM4QDLyIjN0czW}
 
 
 i ran cd command with the help of globbing using the command cd /ch*
+```
