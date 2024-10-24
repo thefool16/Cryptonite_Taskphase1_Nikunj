@@ -1,3 +1,4 @@
+```
 Connected!
 hacker@piping~grepping-stored-results:~$ /challenge/run > /tmp/data.txt
 [INFO] WELCOME! This challenge makes the following asks of you:
@@ -25,3 +26,4 @@ pwned
 pwn.college{MuiidVytDNkBjCG6cdsEJwnfR7g.dhTM4QDLyIjN0czW}
 
 first  i redirected the output then grep the pwn world to get the file
+```
