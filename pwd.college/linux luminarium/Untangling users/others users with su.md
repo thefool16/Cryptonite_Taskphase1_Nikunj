@@ -1,3 +1,4 @@
+```
 hacker@users~other-users-with-su:~$ su zardus
 
 Password:
