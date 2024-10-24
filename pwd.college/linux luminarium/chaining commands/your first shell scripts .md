@@ -1,3 +1,4 @@
+```
 hacker@chaining~your-first-shell-script:~$ echo -e "/challenge/pwn; /challenge/college" > x.sh
 
 hacker@chaining~your-first-shell-script:~$ bash x.sh
