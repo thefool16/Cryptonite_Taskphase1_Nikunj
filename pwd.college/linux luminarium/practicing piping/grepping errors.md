@@ -1,3 +1,4 @@
+```
 hacker@piping~grepping-errors:~$ /challenge/run 2>&1 | grep pwn
 [INFO] WELCOME! This challenge makes the following asks of you:
 [INFO] - the challenge checks for a specific process at the other end of stderr : grep
@@ -24,3 +25,4 @@ pwn
 pwn.college{cJFFx0VJocx_V6J12AZZdrk3Iep.dVDM5QDLyIjN0czW}
 
 just redirected the errors and grepp the flag
+```
