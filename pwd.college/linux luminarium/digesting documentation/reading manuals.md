@@ -1,3 +1,4 @@
+```
 Connected!
 hacker@man~reading-manuals:~$ man challenge
 
@@ -34,3 +35,4 @@ Correct usage! Your flag: pwn.college{YBvwVXleGLsuNHYG0UvosA3cPij.dRTM4QDLyIjN0c
 
 
 i gave the man command as instruted finded the clue and got the flag
+```
