@@ -1,3 +1,4 @@
+```
 Connected!
 hacker@piping~grepping-live-output:~$ /challenge/run| grep pwn
 [INFO] WELCOME! This challenge makes the following asks of you:
@@ -25,3 +26,4 @@ pwned
 pwning
 
 just did as told
+```
