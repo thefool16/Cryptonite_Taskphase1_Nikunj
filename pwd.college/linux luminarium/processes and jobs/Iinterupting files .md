@@ -1,3 +1,4 @@
+```
 ^C
 
 /challenge/run
@@ -12,3 +13,4 @@ you can force me to exit with Ctrl-C. Try it now!
 Good job! You have used Ctrl-C to interrupt this process! Here is your flag:
 
 pwn.college{shV8d0_9LTCHRjCIJgk_167nV3U.dNDN4QDLyIjN0czW}
+```
