@@ -1,3 +1,5 @@
+
+```
 hacker@man~help-for-builtins:~$ help challenge
 challenge: challenge [--fortune] [--version] [--secret SECRET]
     This builtin command will read you the flag, given the right arguments!
@@ -17,3 +19,4 @@ pwn.college{UIjsbRsphQbsAk0i3cumogojOUT.dRTM5QDLyIjN0czW}
 run the help for builtine challenge command then run the argument as asked by help
 got the flag 
 yeah!
+```
