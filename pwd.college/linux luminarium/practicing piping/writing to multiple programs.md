@@ -1,3 +1,4 @@
+```
 hacker@piping~writing-to-multiple-programs:~$ /challenge/hack | tee >(/challenge/the) >(/challenge/planet)
 
 This secret data must directly and simultaneously make it to /challenge/the and
@@ -15,5 +16,5 @@ pwn.college{wTM-aQskXdBIJ-IwSZEdVZ54ar9.dBDO0UDLyIjN0czW}
 hacker@piping~writing-to-multiple-programs:~$
 
 i transfered the output of a command to inputs of other two commands
-
+```
 
