@@ -1,3 +1,4 @@
+```
 Connected!
 hacker@man~searching-for-manuals:~$ man man
 MAN(1)                                                             Manual pager utils                                                             MAN(1)
@@ -343,3 +344,4 @@ Correct usage! Your flag: pwn.college{InuG56HCTL_C3PKx67IMpCOsUcS.dZTM4QDLyIjN0c
 i searched whole database using man -k flag and found a file nuxpscdyjc in which file is written and then i man nuxpscdyjc got the argument to find the flag
 got the flag
 yeah!!
+```
