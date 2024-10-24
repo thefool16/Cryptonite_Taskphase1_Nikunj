@@ -1,3 +1,5 @@
+
+```
 hacker@users~cracking-passwords:~$ john /challenge/shadow-leak
 
 Loaded 1 password hash (crypt, generic crypt(3) [?/64])
