@@ -1,3 +1,4 @@
+```
 thefool@DESKTOP-GUJVLIO:~$ ssh -i ./key hacker@dojo.pwn.college
 Connected!
 hacker@piping~appending-output:~$ /challenge/run >> /home/hacker/the-flag
@@ -39,3 +40,4 @@ mode!
 
 
 first write the file in apppend mode instead of simple > mode becacuse i dont want only one half after appending the file then i cat the file to read it and i got my flag
+```
