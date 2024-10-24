@@ -1,3 +1,4 @@
+```
 Connected!
 
 hacker@path~the-path-variable:~$ PATH=""
