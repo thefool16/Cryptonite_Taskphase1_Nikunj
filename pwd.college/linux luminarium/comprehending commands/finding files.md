@@ -1,3 +1,4 @@
+```
 Connected!
 hacker@commands~finding-files:~$ find -name flag
 hacker@commands~finding-files:~$ find / -name flag
@@ -63,6 +64,7 @@ hacker@commands~finding-files:/opt/pwndbg/.venv/lib/python3.8/site-packages/pwnl
 hacker@commands~finding-files:~$ cat /usr/local/share/jupyter/nbconvert/templates/compatibility/flag
 hacker@commands~finding-files:~$ cat /usr/local/share/jupyter/nbconvert/templates/compatibility/flag
 pwn.college{QtFtcDsYs4SLIxSuMJ1a4zOw8dd.dJzM4QDLyIjN0czW}hacker@commands~finding-files:~$
+```
 
 
 
