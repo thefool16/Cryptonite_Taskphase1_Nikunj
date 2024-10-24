@@ -1,3 +1,4 @@
+```
 hacker@piping~redirecting-more-output:~$ /challenge/run > myflag
 [INFO] WELCOME! This challenge makes the following asks of you:
 [INFO] - the challenge will check that output is redirected to a specific file path : myflag
@@ -18,3 +19,4 @@ hacker@piping~redirecting-more-output:~$ cat myflag
 [FLAG] pwn.college{MojNSQGgia8K_2aY2DT6qkgF23y.dVjN1QDLyIjN0czW}
 
 shifted the output to myflag and cated it 
+```
