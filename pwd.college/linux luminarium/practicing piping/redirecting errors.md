@@ -1,3 +1,4 @@
+```
 thefool@DESKTOP-GUJVLIO:~$ ssh -i ./key hacker@dojo.pwn.college
 Connected!
 hacker@piping~redirecting-errors:~$ /challenge/run > myflag
@@ -27,6 +28,6 @@ hacker@piping~redirecting-errors:~$ cat myflag
 
 [FLAG] Here is your flag:
 [FLAG] pwn.college{0JlvUcwfnga9xBWpfKKaOYQnNQQ.ddjN1QDLyIjN0czW}
-
+```
 
 basically what i understand is > command is same as 1> and 2> is the command to continue this command i.e to be used in same line to direct output of file i dont understand what error played roll in it
