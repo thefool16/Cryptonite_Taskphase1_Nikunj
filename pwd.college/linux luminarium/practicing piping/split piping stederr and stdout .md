@@ -1,3 +1,4 @@
+```
 Connected!
 
 hacker@piping~split-piping-stderr-and-stdout:~$ /challenge/hack > >(/challenge/planet) 2> >(/challenge/the)
@@ -9,3 +10,4 @@ struggle with! Here is your flag:
 pwn.college{YiKN4Tybm2C1AYBrgIiNjVoQgAC.dFDNwYDLyIjN0czW}
 
 hacker@piping~split-piping-stderr-and-stdout:~$
+```
