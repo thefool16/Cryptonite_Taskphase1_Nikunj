@@ -1,3 +1,4 @@
+```
 hacker@chaining~redirecting-script-output:~$ echo -e "/challenge/pwn; /challenge/college" > script.sh
 
 hacker@chaining~redirecting-script-output:~$ bash script.sh | /challenge/solve
