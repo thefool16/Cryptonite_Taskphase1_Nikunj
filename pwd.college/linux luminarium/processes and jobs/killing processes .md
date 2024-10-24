@@ -1,6 +1,7 @@
+```
 hacker@processes~killing-processes:~$  ps -ef | grep run
 
-root           1       0  0 18:54 ?        00:00:00 /sbin/docker-init -- /nix/var/nix/profiles/default/bin/dojo-init /run/dojo/bin/sleep 6h
+root  1       0  0 18:54 ?        00:00:00 /sbin/docker-init -- /nix/var/nix/profiles/default/bin/dojo-init /run/dojo/bin/sleep 6h
 
 root           7       1  0 18:54 ?        00:00:00 /run/dojo/bin/sleep 6h
 
@@ -37,5 +38,5 @@ hacker@processes~killing-processes:~$ /challenge/run
 Great job! Here is your payment:
 
 pwn.college{IqULfJe8eZy3p66ykHQPNyKy4X2.dJDN4QDLyIjN0czW}
-
+```
 
