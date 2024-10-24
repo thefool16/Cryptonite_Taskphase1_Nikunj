@@ -1,3 +1,4 @@
+```
 Connected!
 
 hacker@processes~backgrounding-processes:~$ /challenge/run
@@ -59,3 +60,4 @@ root         112 R+   ps -o user=UID,pid,stat,cmd
 Yay, I found another version of me running in the background! Here is the flag:
 
 pwn.college{s4d70F_YSqEayCIEtPyXpBajW0A.ddDN4QDLyIjN0czW}
+```
