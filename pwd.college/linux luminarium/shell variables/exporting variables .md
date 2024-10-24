@@ -1,3 +1,4 @@
+```
 Connected!
 
 hacker@variables~exporting-variables:~$ export PWN=COLLEGE
@@ -23,4 +24,4 @@ pwn.college{cdGWmecdWek7jtdRNPJRqbTzjOM.dJjN1QDLyIjN0czW}
 You've set the PWN variable to the proper value!
 
 You've set the COLLEGE variable to the proper value!
-
+```
