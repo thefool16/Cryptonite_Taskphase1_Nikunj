@@ -1,4 +1,4 @@
-
+```
 hacker@chaining~executable-shell-scripts:~$ echo "/challenge/solve" > script.sh
 
 hacker@chaining~executable-shell-scripts:~$ chmod +x script.sh
