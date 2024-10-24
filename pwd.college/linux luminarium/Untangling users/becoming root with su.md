@@ -1,3 +1,4 @@
+```
 Connected!
 
 hacker@users~becoming-root-with-su:~$ su
