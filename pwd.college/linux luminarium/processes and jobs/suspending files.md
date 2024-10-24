@@ -1,3 +1,4 @@
+```
 hacker@processes~suspending-processes:~$ /challenge/run
 
 I'll only give you the flag if there's already another copy of me running in
@@ -42,3 +43,4 @@ root         119     117  0 19:13 pts/1    00:00:00 ps -f
 Yay, I found another version of me! Here is the flag:
 
 pwn.college{AqWMKqjb1vw3gKcTPWu3rKNXGSX.dVDN4QDLyIjN0czW}
+```
