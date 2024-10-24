@@ -1,3 +1,4 @@
+```
 thefool@DESKTOP-GUJVLIO:~$ ssh -i ./key hacker@dojo.pwn.college
 Connected!
 hacker@globbing~exclusionary-globbing:~$ cd /challenge/files
@@ -13,3 +14,4 @@ You got it! Here is your flag!
 pwn.college{YPDso1aYGg2BZhCxdocaZycTQ61.dZjM4QDLyIjN0czW}
 
 just removed the files starting with pwn using [] and ! used * for expansion
+```
