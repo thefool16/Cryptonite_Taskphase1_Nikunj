@@ -1,3 +1,4 @@
+```
 Connected!
 
 hacker@processes~foregrounding-processes:~$ /challenge/run
@@ -36,3 +37,4 @@ YES! Great job! I'm now running in the foreground. Hit Enter for your flag!
 
 
 pwn.college{MoatB0jpi2-3EigplRCOvbBWOgc.dhDN4QDLyIjN0czW}
+```
