@@ -1,3 +1,4 @@
+```
 hacker@permissions~changing-file-ownership:/$ ls -l
 
 total 80
@@ -91,4 +92,4 @@ hacker@permissions~changing-file-ownership:/$ cat /flag
 
 pwn.college{gcxMKhNVLbyc68Bv011BwwMFZWa.dFTM2QDLyIjN0czW}
 
-
+```
